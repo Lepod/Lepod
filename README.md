@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fabian!
 - 👀 I’m interested in coding with python!
 - 🌱 I’m currently learning python :Suffer:
-- 💞️ I’m looking to collaborate on discordbots!
 - 📫 How to reach me Lepod#0001
 
 <!---
